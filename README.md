@@ -15,6 +15,7 @@ React: Front-end library for building user interfaces.
 HTML/CSS: Structure and styling.
 JavaScript: Programming language used with React.
 [Other libraries or tools you might have used]
+
 **Getting Started**
 To run this project locally, follow these steps:
 
@@ -34,4 +35,5 @@ Create a new Pull Request.
 For feedback, suggestions, or contributions, feel free to reach out:
 
 **Email**: niye2121@gmail.com
+
 **LinkedIn**: https://www.linkedin.com/in/nigist-mamo-53572a107/
