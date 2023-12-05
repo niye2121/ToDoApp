@@ -120,7 +120,7 @@ border-radius: 15px 55px; /* Makes the corners perfectly round */
 .icon{
   font-size: 35px;
   cursor: pointer;
-  padding-top: 25px;
+  padding-top: 26px;
 }
 
 .icon:hover{
@@ -133,6 +133,6 @@ border-radius: 15px 55px; /* Makes the corners perfectly round */
   font-size: 25px;
   margin-left: 10px;
   color:   rgb(241, 53, 53);
-  padding-top: 25px;
+  padding-top: 26px;
 
 }
